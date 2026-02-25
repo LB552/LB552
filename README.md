@@ -1,6 +1,5 @@
 # Anton Börnfelt
-## Web developer in training
-
+Web developer in training
 See my competences below
 
 ## Languages:
