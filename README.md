@@ -1,4 +1,20 @@
-## Hi there 👋
+## Anton Börnfelt
+# Web developer in training
+
+See my competences below. Tell me what to do and I'll try my best.
+
+# Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+<!--# Tools:-->
+
+# Contact:
+[LinkedIn](https://www.linkedin.com/in/anton-börnfelt-3667703a8/)
+<!--<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40">-->
 
 <!--
 **LB552/LB552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
